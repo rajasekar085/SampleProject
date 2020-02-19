@@ -1,2 +1,0 @@
-This is a sample GIT File first program
-This is an updated file
